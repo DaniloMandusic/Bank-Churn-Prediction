@@ -23,6 +23,7 @@ End-to-end machine learning pipeline for predicting bank customer churn using a 
 - 100 epochs
 - Early stop on validation loss with patience 10
 - Saving top 1 checkpoint
+- 3 iterations of cross validation
 
 ## Evaluation
 - Accuracy: 0.86
